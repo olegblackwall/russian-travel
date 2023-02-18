@@ -18,6 +18,7 @@
     .cover {
         width: 768px;
         height: 480px;
+        margin-top: 65px;
     }
 }
 
@@ -25,5 +26,6 @@
     .cover {
         width: 320px;
         height: 200px;
+        margin: 41px auto 0;
     }
 }
