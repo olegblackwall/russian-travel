@@ -6,5 +6,4 @@
 ---------------------------------
 
 **Ссылка на сайт**
-
 https://olegblackwall.github.io/russian-travel/
