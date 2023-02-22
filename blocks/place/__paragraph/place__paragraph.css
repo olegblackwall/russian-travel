@@ -2,41 +2,40 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 163%;
-    margin: 0;
-    padding: 0 0 26px 0;
+    margin: 0 0 26px 0;
 }
 
 .place__paragraph:last-of-type {
-    padding: 0;
+    margin: 0;
 }
 
 @media screen and (max-width: 1279px) {
     .place__paragraph {
-        padding: 0 0 27px 0;
+        margin: 0 0 27px 0;
     }
 
     .place__paragraph:last-of-type {
-        padding: 0;
+        margin: 0;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .place__paragraph {
         font-size: 16px;
-        padding: 0 0 25px 0;
+        margin: 0 0 25px 0;
     }
 
     .place__paragraph:last-of-type {
-        padding: 0;
+        margin: 0;
     }
 }
 @media screen and (max-width: 767px) {
     .place__paragraph {
         font-size: 16px;
-        padding: 0 16px 25px 16px;
+        margin: 0 16px 25px 16px;
     }
 
     .place__paragraph:last-of-type {
-        padding: 0 16px 0 16px;
+        margin: 0 16px 0 16px;
     }
 }
